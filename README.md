@@ -1,4 +1,4 @@
-# playlist2urls
+# Ytplaylist2urls
 これはYoutubeの再生リストの動画のurlを抽出するプログラムです．
 
 # 実行方法
